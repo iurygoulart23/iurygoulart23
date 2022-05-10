@@ -7,16 +7,12 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 
 <h1 align="center">Hi 👋, I'm Iury Goulart</h1>
+<h3 align="center">A passionate Data Scientist from Brazil</h3>
 -->
 
 <p align="center">
   <img src="https://github.com/iurygoulart23/iurygoulart23/raw/main/assets/header-github.gif" alt="Hi 👋, I'm Iury Goulart">
 </p>
-
-
-
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
-
 
 
 - 👯 I’m looking to collaborate on **on data science and data analytics projects**
