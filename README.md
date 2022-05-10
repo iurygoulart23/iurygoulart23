@@ -35,7 +35,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p align="left">
 <a href="https://twitter.com/iury_fonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iury_fonseca" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iury-goulart-da-fonseca-634819187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iury-goulart-da-fonseca-634819187/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KYaYPyMAFn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KYaYPyMAFn" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/KYaYPyMAFn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KYaYPyMAFn" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iurygoulart23&label=Profile%20views&color=0e75b6&style=flat" alt="iurygoulart23" /> </p>
