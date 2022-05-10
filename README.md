@@ -10,7 +10,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
 <p align="center">
-  <img src="https://github.com/uirygoulart23/iurygoulart23/raw/main/assets/header-github.gif" alt="Hi 👋, I'm Iury Goulart">
+  <img src="https://github.com/iurygoulart23/iurygoulart23/raw/main/assets/header-github.gif" alt="Hi 👋, I'm Iury Goulart">
 </p>
 
 
