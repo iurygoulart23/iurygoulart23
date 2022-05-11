@@ -15,7 +15,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </p>
 
 
-- 👯 I’m looking to collaborate on **on data science and data analytics projects**
+- 👯 I’m looking to collaborate **on data science and data analytics projects**
 - 💬 Ask me about **Tecnology, data science, data analytics; i will be glad to help :)**
 - 📫 How to reach me **iurygoulart@icloud.com**
 
