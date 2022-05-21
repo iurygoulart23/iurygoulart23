@@ -27,9 +27,8 @@ Then i save result to [assets/github.gif](assets/github.gif)
 </details>
   
 <h3 align="left">📊 GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurygoulart23&show_icons=true&locale=en" alt="iurygoulart23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurygoulart23&layout=compact&theme=tokyonight" alt="iurygoulart23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iurygoulart23&" alt="iurygoulart23" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
